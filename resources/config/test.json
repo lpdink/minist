@@ -1,0 +1,14 @@
+{
+    "model":{
+        "name":"test_model_name"
+    },
+    "loss":{
+        "name":"test_loss"
+    },
+    "train":{
+        "name":"test_train"
+    },
+    "dataset":{
+        "name":"test_dataset"
+    }
+}
